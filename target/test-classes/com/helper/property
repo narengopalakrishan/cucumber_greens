@@ -1,0 +1,4 @@
+url=https://adactinhotelapp.com/
+location=Sydney
+hotels=Hotel Creek
+expected_error_message=Invalid Login details or Your Password might have expired. Click here to reset your password
